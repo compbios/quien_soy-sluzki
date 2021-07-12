@@ -11,7 +11,7 @@ _____
 ____
 >
 ## **_ESTUDIOS:_**
-#### Medicina - Universidad Nacional de Colombia
-#### Especialización en Psiquiatría - Universidad Nacional de Colombia
-#### Maestría en Epidemiología Clínica - Pontificia Universidad Javeriana
+#### 1. Medicina - Universidad Nacional de Colombia
+#### 2. Especialización en Psiquiatría - Universidad Nacional de Colombia
+#### 3. Maestría en Epidemiología Clínica - Pontificia Universidad Javeriana
 ___
